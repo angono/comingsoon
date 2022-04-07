@@ -1,2 +1,2 @@
-web: gunicorn foodery.wsgi
+web: gunicorn comingsoon.wsgi
 
